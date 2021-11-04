@@ -26,6 +26,9 @@ Avec cette application web nous visons à atteindre les objectifs suivants :
 
 # Diagramme de classes:
 
+![classDiag](https://user-images.githubusercontent.com/62358941/140351494-882ce084-dacb-4930-9c6b-23e1bdda1f39.PNG)
+
 
 # Diagramme de cas d'utilisation:
 
+![usecases](https://user-images.githubusercontent.com/62358941/140351731-fe16a9af-66f8-4482-a90e-8a458d6dd442.PNG)
